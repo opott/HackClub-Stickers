@@ -1,0 +1,1 @@
+This repository contains some stickers that I designed for Hack Club during Arcade. All of these were made with Figma.
